@@ -1,0 +1,19 @@
+@charset "UTF-8";
+div img{
+  width:100%;
+  max-width: 100%;
+  height:auto;
+  display: block;
+  z-index: 1;
+}
+.row div{
+  padding:0;
+}
+
+ul li {
+  list-style-type: none;
+  text-align: center;
+}
+ul {
+  padding-left: 0px;
+}
